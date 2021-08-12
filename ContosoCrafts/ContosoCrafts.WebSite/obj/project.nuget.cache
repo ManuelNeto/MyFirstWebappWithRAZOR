@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qc9bf9RXtGllBtd055aAvkjbtv5NeZ340Q/luH5KNUKldl5ur0GpcReTEWbNb7B8B6FfkS1aip0ovPXooBdh9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manuel.neto\\Desktop\\Estudos ASP.NET\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manuel.neto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
